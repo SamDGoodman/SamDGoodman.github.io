@@ -9,10 +9,10 @@ description:>
  can use the same techniques that I 
  show to paint any model you want!
  Good luck and have fun!
-baseurl: "/blog"
-url: "http://samsminiaturepainting.com" # the base hostname & protocol for your site
-twitter_username: N/A
-github_username: SamDGoodman
+baseurl:"/blog"
+url:"http://samsminiaturepainting.com" # the base hostname & protocol for your site
+twitter_username:N/A
+github_username:SamDGoodman
 
 # Build settings
-markdown: kramdown
+markdown:kramdown
