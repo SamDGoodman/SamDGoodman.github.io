@@ -8,7 +8,7 @@
 # Site settings
 title: Sam's Miniature Painting
 email: samthetutor@samsminiaturepainting.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   On my blog, you can really get an insight on
  how to paint models with precision and detail.
  In my videos, I just paint miniatures from 
@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
  can use the same techniques that I 
  show to paint any model you want!
  Good luck and have fun!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://samsminiaturepainting.com" # the base hostname & protocol for your site
 twitter_username:
 github_username:  SamDGoodman
