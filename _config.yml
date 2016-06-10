@@ -1,6 +1,6 @@
 # Site settings
-title:Sam's Miniature Painting
-email:samthetutor@samsminiaturepainting.com
+title: Sam's Miniature Painting
+email: samthetutor@samsminiaturepainting.com
 description:>
   On my blog, you can really get an insight on
  how to paint models with precision and detail.
@@ -9,10 +9,10 @@ description:>
  can use the same techniques that I 
  show to paint any model you want!
  Good luck and have fun!
-baseurl:""
-url:"http://samsminiaturepainting.com" # the base hostname & protocol for your site
-twitter_username:N/A
-github_username:SamDGoodman
+baseurl: ""
+url: "http://samsminiaturepainting.com" # the base hostname & protocol for your site
+twitter_username: N/A
+github_username: SamDGoodman
 
 # Build settings
-markdown:kramdown
+markdown: kramdown
